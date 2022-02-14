@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class ejercicio7 {
+public class A2E7 {
     static Scanner entrada = new Scanner(System.in);
     static Random r = new Random();
     public static void main(String args[])
